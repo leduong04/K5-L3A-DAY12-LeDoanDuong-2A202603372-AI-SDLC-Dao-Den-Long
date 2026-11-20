@@ -1,0 +1,1 @@
+PASS: 6 headless contract checks (determinism, tick/output, pickup+deposit, pulse, hit, invalid JSON)
